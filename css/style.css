@@ -2184,12 +2184,15 @@ span.error {
   padding: 60px 30px;
 }
 .portfolio-text h2{
+  font-family: 'NanumSquareNeo-Variable';
   font-size: 25px;
   padding-bottom: 10px;
   font-weight: 900;
 }
 .portfolio-text h3{
+  font-family: 'NanumSquareNeo-Variable';
   font-size: 18px;
+  font-weight: 700;
   padding-bottom: 10px;
 }
 .portfolio-text .website{
